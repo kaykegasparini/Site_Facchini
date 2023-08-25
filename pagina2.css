@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,300&display=swap');
+
+.prop{
+    font-family: 'Open Sans', sans-serif;
+}
+.rod_pe{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border-color: black;
+}
+.nom_carr{
+    font-family: 'Montserrat', sans-serif;
+}
+.nom_carr_mod2{
+    font-family: 'Montserrat', sans-serif;
+}
+.desc_pro_mod2{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.desc_pro_mod1{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.link_prox_pag_3{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1450px;
+}
+.botao:hover{
+    background-color: red;
+}
+.link_pag_ant{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_tab2{
+    font-family: 'Montserrat', sans-serif;
+}
+.desc_tab2_mod2{
+    font-family: 'Montserrat', sans-serif;
+}
+.mod_car{
+    font-family: 'Open Sans', sans-serif;
+}
+.foto2{
+    border-radius: 7px;
+}
+.foto1{
+    border-radius: 7px;
+}
+.video{
+    border-radius: 7px;
+}
+.tab_pag2{
+    border-color: red; 
+    border-radius: 3px;
+}
+.tab2_pag2{
+    border-color: red;
+    border-radius: 3px;
+}
+.chassi_pag2{
+    font-family: 'Roboto', sans-serif;
+}
+.pint_pag2{
+    font-family: 'Roboto', sans-serif;
+}
+.acess_pag2{
+    font-family: 'Roboto', sans-serif;
+}
+.caixa_carga{
+    font-family: 'Roboto', sans-serif;
+}
+.desc_chassi{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_pint{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_acess{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_caixa{
+    font-family: 'Open Sans', sans-serif;
+}
+.estrutura{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_estr{
+    font-family: 'Open Sans', sans-serif;
+}
+.cap_mod_2{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_cap_mod_2{
+    font-family: 'Open Sans', sans-serif;
+}
+.pint_mod_2{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_pint_mod_2{
+    font-family: 'Open Sans', sans-serif;
+}
+.acess_mod_2{
+    font-family: 'Open Sans', sans-serif;
+}
+.desc_acess_mod_2{
+        font-family: 'Open Sans', sans-serif;
+    }
+    

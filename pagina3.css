@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2? family= Fira+Sans & family= Montserrat:ital,wght@1,200 & family= Open+Sans & display=swap');
+
+
+.contato{
+    font-family: 'Montserrat', sans-serif;
+}
+.nome{
+    font-family: 'Montserrat', sans-serif;
+}
+.email{
+    font-family: 'Montserrat', sans-serif;
+}
+.tel{
+    font-family: 'Montserrat', sans-serif;
+}
+.msg{
+    font-family: 'Montserrat', sans-serif;
+}
+.cid{
+    font-family: 'Montserrat', sans-serif;
+}
+.est{
+    font-family: 'Montserrat', sans-serif;
+}
+.link_prox_pag_1{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1450px;
+}
+.rod_pe{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border-color: black;
+}
+input, textarea{
+    display: flex;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.link_pag_ant_2{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}

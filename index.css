@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2? family= Fira+Sans & family= Montserrat:ital,wght@1,200 & family= Open+Sans & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,300&display=swap');
+
+
+.mod{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+.desc_mod_pag1{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.nome_pro{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+.desc{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+}
+.desc_pro{
+    font-family: 'Montserrat', sans-serif;
+}
+.chassi{
+    font-family: 'Fira Sans', sans-serif;
+}
+.susp{
+    font-family: 'Fira Sans', sans-serif;
+}
+.sup_vert{
+    font-family: 'Fira Sans', sans-serif;
+}
+.pintura{
+    font-family: 'Fira Sans', sans-serif;
+}
+.sis_rod{
+    font-family: 'Fira Sans', sans-serif;
+}
+.acss{
+    font-family: 'Fira Sans', sans-serif;
+}
+.prim_linha{
+    font-family: 'Montserrat', sans-serif;
+}
+.seg_linha{
+    font-family: 'Montserrat', sans-serif;
+}
+.terc_linha{
+    font-family: 'Montserrat', sans-serif;
+}
+.quarta_linha{
+    font-family: 'Montserrat', sans-serif;
+}
+.quin_linha{
+    font-family: 'Montserrat', sans-serif;
+}
+.sext_linha{
+    font-family: 'Montserrat', sans-serif;
+}
+.rod_pe{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border-color:black;
+}
+.link_prox_pag_2{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+    margin-left: 1650px;
+    margin-right: 10px;
+}
+.botao:hover{
+    background-color: red;
+}
+.tab{
+    border-color: red;
+    border-radius: 3px;
+}
+.foto_pag1{
+    border-radius: 7px;
+}
